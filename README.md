@@ -21,7 +21,7 @@ Platform:
 | ------ |  ------ |
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog](https://unreal-academy.codecks.io/decks/109-product-backlog)
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen](https://mediacollegeamsterdam.sharepoint.com/:b:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview/Sprint5/RetroSpective.pdf?csf=1&web=1&e=oIz8pu)
-| Logboek (pdf)                                             | [Logboek]()
+| Logboek (pdf)                                             | [Logboek](https://github.com/Safwan-Almashnouk/Safwan_agp_inlever_template/blob/master/producten/FlyingEnemy%20sprint%205.pdf)
 | Opnames sprint retrospectives (Teams opnames)             | [Folder op teams](https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview/Sprint5?csf=1&web=1&e=fFpCcE)
 | Opnames standups (Teams opnames)                          | [Folder op teams]()
 |<img width=500/>|<img width=300/>|
